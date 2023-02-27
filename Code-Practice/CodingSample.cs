@@ -2,6 +2,7 @@
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Code_Practice
@@ -72,6 +73,7 @@ namespace Code_Practice
             return t;
         }
         #endregion
+        #region ArithmeticMeanoftheNeighborsSolution
         public static int ArithmeticMeanoftheNeighborsSolution(int[] a)
         {
             string codingHint = @"You are given an array of integers a. Your task is to calculate how many numbers in the array are equal to the arithmetic mean of their immediate neighbors.In other words, count the number of indices i such that a[i] = (a[i - 1] + a[i + 1]) / 2.Note: If a[i - 1] or a[i + 1] don't exist, they should be considered equal to 0.ExampleFor a = [2, 4, 6, 6, 3], the output should be solution(a) = 3.";
@@ -97,6 +99,16 @@ namespace Code_Practice
             }
             ConsoleHelper.InsertEmptyLines();
             return count; // Return the final count
+        }
+        #endregion
+        public static bool IsPilandormSolution(string inputString)
+        {
+            if (string.IsNullOrWhiteSpace(inputString)) return true;
+            string reversedString = new string(inputString.Reverse().ToArray());
+            ConsoleHelper.InsertEmptyLines();
+            Console.WriteLine($"inputString -> {inputString} is reversed to be -> {reversedString}");
+        
+            return inputString == reversedString;
         }
     }
 }
