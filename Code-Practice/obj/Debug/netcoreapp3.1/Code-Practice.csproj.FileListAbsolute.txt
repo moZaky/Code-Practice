@@ -1,0 +1,15 @@
+C:\code-practice\Code-Practice\Code-Practice\bin\Debug\netcoreapp3.1\Code-Practice.exe
+C:\code-practice\Code-Practice\Code-Practice\bin\Debug\netcoreapp3.1\Code-Practice.deps.json
+C:\code-practice\Code-Practice\Code-Practice\bin\Debug\netcoreapp3.1\Code-Practice.runtimeconfig.json
+C:\code-practice\Code-Practice\Code-Practice\bin\Debug\netcoreapp3.1\Code-Practice.runtimeconfig.dev.json
+C:\code-practice\Code-Practice\Code-Practice\bin\Debug\netcoreapp3.1\Code-Practice.dll
+C:\code-practice\Code-Practice\Code-Practice\bin\Debug\netcoreapp3.1\Code-Practice.pdb
+C:\code-practice\Code-Practice\Code-Practice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\code-practice\Code-Practice\Code-Practice\obj\Debug\netcoreapp3.1\Code-Practice.csprojAssemblyReference.cache
+C:\code-practice\Code-Practice\Code-Practice\obj\Debug\netcoreapp3.1\Code-Practice.AssemblyInfoInputs.cache
+C:\code-practice\Code-Practice\Code-Practice\obj\Debug\netcoreapp3.1\Code-Practice.AssemblyInfo.cs
+C:\code-practice\Code-Practice\Code-Practice\obj\Debug\netcoreapp3.1\Code-Practice.csproj.CoreCompileInputs.cache
+C:\code-practice\Code-Practice\Code-Practice\obj\Debug\netcoreapp3.1\Code-Practice.csproj.CopyComplete
+C:\code-practice\Code-Practice\Code-Practice\obj\Debug\netcoreapp3.1\Code-Practice.dll
+C:\code-practice\Code-Practice\Code-Practice\obj\Debug\netcoreapp3.1\Code-Practice.pdb
+C:\code-practice\Code-Practice\Code-Practice\obj\Debug\netcoreapp3.1\Code-Practice.genruntimeconfig.cache
